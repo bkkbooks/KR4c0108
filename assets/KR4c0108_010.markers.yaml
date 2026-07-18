@@ -222,6 +222,7 @@ markers:
   - {type: indent, offset: 465, content: 　　　, id: KR4c0108_krp_010-bkkind14}
   - {type: substitution, offset: 467, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   - {type: punctuation, offset: 469, content: (, id: KR4c0108_krp_010-bkkpn1}
+  - {type: voice, offset: 469, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 473, content: ), id: KR4c0108_krp_010-bkkpn2}
   - {type: 'kr:newline', offset: 473, content: '
 
@@ -816,6 +817,7 @@ markers:
   - {type: indent, offset: 1830, content: 　　　, id: KR4c0108_krp_010-bkkind39}
   - {type: punctuation, offset: 1833, content: (, id: KR4c0108_krp_010-bkkpn3}
   - {type: substitution, offset: 1833, original: 乹, replacement: 乾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16167}}
+  - {type: voice, offset: 1833, length: 3, name: note, id: n2}
   - {type: substitution, offset: 1835, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   - {type: punctuation, offset: 1836, content: ), id: KR4c0108_krp_010-bkkpn4}
   - {type: 'kr:newline', offset: 1836, content: '
@@ -945,4 +947,4 @@ markers:
 
       ', id: KR4c0108_krp_010-bkkkrnewl195}
   back: []
-hash: sha256:62bc0915fd1e96a364c1aa8cb8e8db5ad20afdbaf025e81c2869e024183be072
+hash: sha256:b53bab2a847edfe281402208567303cfe1e5d64e2e0d318b98de2835253ce478

@@ -72,6 +72,7 @@ markers:
   - {type: variant, offset: 116, length: 1, content: 寄, SBCK: 􅀉}
   - {type: variant, offset: 118, length: 1, content: 龜, SBCK: 􅀛}
   - {type: punctuation, offset: 120, content: (, id: KR4c0108_krp_005-bkkpn1}
+  - {type: voice, offset: 120, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 126, content: /, id: KR4c0108_krp_005-bkkpn2}
   - {type: variant, offset: 128, length: 1, content: 龜, SBCK: 􅀛}
   - {type: punctuation, offset: 131, content: ), id: KR4c0108_krp_005-bkkpn3}
@@ -1134,4 +1135,4 @@ markers:
 
       ', id: KR4c0108_krp_005-bkkkrnewl233}
   back: []
-hash: sha256:f6184fb8f1b565715c43cde9075e8a66ee6692ea0ba47d77b786d0aaed1b8698
+hash: sha256:9b6555233833d1bdaecf20dc7ceb3ea3b6bb221b233702a78c76252f5df92755
